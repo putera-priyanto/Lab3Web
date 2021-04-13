@@ -12,3 +12,14 @@ Nim   : 311910373
 
 ![HTML Lanjutan - Google Chrome 4_13_2021 8_54_38 AM](https://user-images.githubusercontent.com/81774141/114492915-ba767780-9c43-11eb-8beb-caf180b09a46.png)
 
+> Membuat Unorder List
+
+![lab3_list html - Visual Studio Code 4_13_2021 10_37_41 AM](https://user-images.githubusercontent.com/81774141/114493645-155c9e80-9c45-11eb-8e78-154a41623315.png)
+
+![HTML Lanjutan - Google Chrome 4_13_2021 9_00_08 AM](https://user-images.githubusercontent.com/81774141/114493805-67052900-9c45-11eb-8de5-c3ac2b02a99f.png)
+
+>Membuat Description List
+
+![lab3_list html - Visual Studio Code 4_13_2021 10_37_41 AM](https://user-images.githubusercontent.com/81774141/114493645-155c9e80-9c45-11eb-8e78-154a41623315.png)
+
+![HTML Lanjutan - Google Chrome 4_13_2021 9_02_31 AM](https://user-images.githubusercontent.com/81774141/114493895-961b9a80-9c45-11eb-9910-4e89a450c4e2.png)
