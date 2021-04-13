@@ -46,4 +46,12 @@ Nim   : 311910373
 
 ![HTML Lanjutan - Google Chrome 4_13_2021 9_26_06 AM](https://user-images.githubusercontent.com/81774141/114496355-f6144000-9c49-11eb-9494-4466cb2bfa10.png)
 
+> Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
 
+![kode_5 html - Visual Studio Code 4_13_2021 1_40_09 PM](https://user-images.githubusercontent.com/81774141/114507799-d4bd4f00-9c5d-11eb-9b13-ff8024f11b23.png)
+
+![kode_5 html - Visual Studio Code 4_13_2021 1_42_09 PM](https://user-images.githubusercontent.com/81774141/114508359-75ac0a00-9c5e-11eb-926b-01ce12478c52.png)
+
+![kode_5 html - Visual Studio Code 4_13_2021 1_42_32 PM](https://user-images.githubusercontent.com/81774141/114508401-83618f80-9c5e-11eb-9e24-0c872f68148f.png)
+
+![kode_5 html - Google Chrome 4_13_2021 1_48_14 PM](https://user-images.githubusercontent.com/81774141/114508780-f66b0600-9c5e-11eb-9d9d-5d9254e5d740.png)
